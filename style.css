@@ -505,10 +505,10 @@ footer a{
         }
         #home{
             /* flex-direction: column-reverse; */
-            height: 40vh;
+            height: auto;
         }
     p{
-        font-size: 0.9rem;
+        font-size: 0.7rem;
     }
         /* .article{
             text-align: center;
