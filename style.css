@@ -623,7 +623,7 @@ footer a{
         text-align: center;
     }
      p{
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
 }
 /*view tablet */
@@ -647,7 +647,7 @@ footer a{
         height: auto;
     }
     header h3, p, a, li{
-        font-size: 1rem
+        font-size: 0.9rem
     }
 }
 /* view mobile */
