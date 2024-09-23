@@ -507,8 +507,8 @@ footer a{
             /* flex-direction: column-reverse; */
             height: auto;
         }
-    p{
-        font-size: 0.7rem;
+    .profil p{
+        font-size: 0.8rem;
     }
         /* .article{
             text-align: center;
