@@ -506,9 +506,6 @@ footer a{
             /* flex-direction: column-reverse; */
             height: auto;
         }
-    .profil p{
-        font-size: 0.8rem;
-    }
         /* .article{
             text-align: center;
         } */
@@ -567,7 +564,7 @@ footer a{
         .portbox img{
             width: 340px;
         }
-        .portbox p{
+         p{
             font-size: 0.8rem;
         }
 }
@@ -622,7 +619,7 @@ footer a{
         text-align: center;
     }
      p{
-        font-size: 0.9rem;
+        font-size: 0.8rem;
     }
 }
 /*view tablet */
@@ -645,7 +642,7 @@ footer a{
         width: 100%;
         height: auto;
     }
-    header h3, p, a, li{
+     h3, p, a, li, i{
         font-size: 0.9rem
     }
     .profil p{
@@ -670,7 +667,7 @@ footer a{
         font-size: 0.9rem;
     }
     p, i, a, svg{
-        font-size: 0.9rem;
+        font-size: 0.8rem;
     }
     .image ,.image1, .image2, .image3{
         width:80px;
