@@ -567,6 +567,10 @@ footer a{
         .profil div p{
             font-size: 0.8rem;
         }
+    .profil div{
+        width: 100%;
+        height: auto;
+    }
 }
 @media screen  and (max-width: 940px) {
     #portfolio {
