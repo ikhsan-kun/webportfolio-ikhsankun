@@ -508,7 +508,7 @@ footer a{
             height: 40vh;
         }
     p{
-        font-size: 1rem;
+        font-size: 0.9rem;
     }
         /* .article{
             text-align: center;
@@ -555,7 +555,7 @@ footer a{
         }
         .MySkills{
             display: grid;
-            grid-template-columns: repeat(6, 1fr);
+            grid-template-columns: repeat(5, 1fr);
             /* grid-template-rows: repeat(5, 1fr); */
             gap: 10px;
             width: 100%;
