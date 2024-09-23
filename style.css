@@ -649,6 +649,9 @@ footer a{
     header h3, p, a, li{
         font-size: 0.9rem
     }
+    .profil p{
+        font-size: 0.8rem
+    }
 }
 /* view mobile */
 @media screen and (max-width: 520px){
