@@ -303,7 +303,7 @@ aside{
     align-items: center;
     justify-content: center;
 }
-.profil p{
+.profil .text2{
     text-align: center;
 }
 .skills{
@@ -564,7 +564,7 @@ footer a{
         .portbox img{
             width: 340px;
         }
-        .tx{
+        .text2{
             font-size: 0.8rem;
         }
     .profil div{
@@ -625,7 +625,7 @@ footer a{
      p{
         font-size: 0.8rem;
     }
-    .tx{
+    .text2{
         font-size: 0.8rem;
     }
 }
@@ -652,7 +652,7 @@ footer a{
      h3, p, a, li, i{
         font-size: 0.9rem
     }
-    .tx{
+    .text2{
         font-size: 0.8rem;
     }
 }
@@ -676,7 +676,7 @@ footer a{
     p, i, a, svg{
         font-size: 0.8rem;
     }
-    .tx{
+    .text2{
        font-size: 0.8rem; 
     }
     .image ,.image1, .image2, .image3{
