@@ -564,7 +564,7 @@ footer a{
         .portbox img{
             width: 340px;
         }
-        .profil div p{
+        .tx{
             font-size: 0.8rem;
         }
     .profil div{
@@ -625,6 +625,9 @@ footer a{
      p{
         font-size: 0.8rem;
     }
+    .tx{
+        font-size: 0.8rem;
+    }
 }
 /*view tablet */
 @media screen and (max-width: 768px) {
@@ -649,8 +652,8 @@ footer a{
      h3, p, a, li, i{
         font-size: 0.9rem
     }
-    .profil p{
-        font-size: 0.8rem
+    .tx{
+        font-size: 0.8rem;
     }
 }
 /* view mobile */
